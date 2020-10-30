@@ -1,0 +1,122 @@
+<!-- <div class="col-md-12">
+    <nb-card>
+        <nb-card-header>Create Supplier</nb-card-header>
+        <nb-card-body *ngIf="supplierForm">
+
+
+            <form [formGroup]="supplierForm" (ngSubmit)="submit()" autocomplete="off" autofill="off" class="row">
+
+                <div class="form-group col-md-6">
+
+                    <div>
+                        <label for="SupplierName" class="label">
+                            {{'supplier.form.name'| translate}}
+                        </label>
+                        <input type="text" formControlName="name" nbInput fullWidth required />
+                        <mat-hint class="text-red" *ngIf="submitted && f.name.invalid">Required</mat-hint>
+                    </div>
+                    <div>
+                        <label for="PhoneNumber" class="label">
+                            {{'supplier.form.phone'| translate}}
+                        </label>
+                        <input type="text" formControlName="phone" nbInput fullWidth /><br />
+                        <mat-hint class="text-red" *ngIf="submitted && f.phone.invalid">Required</mat-hint>
+                    </div>
+
+                    <div>
+                        <label for="mobile" class="label">
+                            {{'supplier.form.mobile'| translate}}
+                        </label>
+                        <input type="text" formControlName="mobile" nbInput fullWidth /><br />
+                        <mat-hint class="text-red" *ngIf="submitted && f.mobile.invalid">Required</mat-hint>
+                    </div>
+                    <div>
+                        <label for="postCode" class="label">
+                            {{'supplier.form.post'| translate}}
+                        </label>
+                        <input type="text" formControlName="postCode" nbInput fullWidth /><br />
+                        <mat-hint class="text-red" *ngIf="submitted && f.postCode.invalid">Required</mat-hint>
+                    </div>
+                    <div>
+                        <label for="openingBalance" class="label">
+                            {{'supplier.form.balance'| translate}}
+                        </label>
+                        <input type="text" formControlName="openingBalance" nbInput fullWidth /><br />
+                        <mat-hint class="text-red" *ngIf="submitted && f.openingBalance.invalid">Required</mat-hint>
+                    </div>
+                    <div>
+                        <label for="sta" class="label">
+                            {{'supplier.form.contactPerson'| translate}}
+                        </label>
+                        <input type="text" formControlName="contactPerson" nbInput fullWidth /><br />
+                        <mat-hint class="text-red" *ngIf="submitted && f.contactPerson.invalid">Required</mat-hint>
+                    </div>
+                    <div>
+                        <label for="Address" class="label">
+                            {{'supplier.form.address'| translate}}
+                        </label>
+                        <textarea rows="5" formControlName="address" nbInput fullWidth
+                            shape="semi-round"></textarea><br />
+                    </div>
+                </div>
+
+
+                <div class="form-group col-md-6">
+
+                    <label for="Email1" class="label">
+                        {{'supplier.form.email'| translate}}
+                    </label>
+                    <input type="email" formControlName="email" nbInput fullWidth id="exampleInputEmail1" /><br />
+                    <mat-hint class="text-red" *ngIf="isFieldValid('email')&& f.email.invalid">Enter Valid Email
+                    </mat-hint>
+
+
+                    <label for="city" class="label">
+                        {{'supplier.form.country'| translate}}
+                    </label>
+                    <input type="text" formControlName="country" nbInput fullWidth id="country" /><br />
+                    <mat-hint class="text-red" *ngIf="submitted && f.country.invalid">Required</mat-hint>
+
+                    <label for="city" class="label">
+                        {{'supplier.form.state'| translate}}
+                    </label>
+                    <input type="text" formControlName="state" nbInput fullWidth id="country" /><br />
+                    <mat-hint class="text-red" *ngIf="submitted && f.state.invalid">Required</mat-hint>
+
+
+                    <label for="city" class="label">
+                        {{'supplier.form.city'| translate}}
+                    </label>
+                    <input type="text" formControlName="city" nbInput fullWidth id="city" /><br />
+                    <mat-hint class="text-red" *ngIf="submitted && f.city.invalid">Required</mat-hint>
+
+
+
+                    <label for="gst" class="label">
+                        {{'supplier.form.gst'| translate}}
+                    </label>
+                    <input type="text" formControlName="gst" nbInput fullWidth id="gst" /><br />
+                    <mat-hint class="text-red" *ngIf="isFieldValid('email')&& f.email.invalid">Enter Valid Email
+                    </mat-hint>
+
+
+                    <label for="gst" class="label">
+                        {{'supplier.form.tax'| translate}}
+                    </label>
+                    <input type="number" formControlName="taxNumber" nbInput fullWidth id="taxNumber" /><br />
+                    <mat-hint class="text-red" *ngIf="isFieldValid('email')&& f.email.invalid">Enter Valid Email
+                    </mat-hint>
+
+                </div>
+
+                <button *ngIf="!id" style="text-align: center;" type="submit" nbButton status="danger">
+                    {{'supplier.form.submit'| translate}}
+                </button>
+                <button *ngIf="id" type="submit" nbButton status="danger">
+                    {{'supplier.form.update'| translate}}
+                </button>
+
+            </form>
+        </nb-card-body>
+    </nb-card>
+</div> -->

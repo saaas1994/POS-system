@@ -1,0 +1,83 @@
+{
+	"header": {
+		"language": "語言"
+	},
+	"community": {
+		"list.title": "社區清單",
+		"list.upload": "上載Excel",
+		"list.add": "添加社區",
+		"list.name": "電話",
+		"list.phone": "電話",
+		"list.email": "電子郵件",
+		"list.contactPerson": "聯繫人",
+		"list.pickUp": "領取地址",
+		"list.area": "區"
+	},
+	"supplier": {
+		"list.title": "供應商清單",
+		"list.upload": "上載Excel",
+		"list.add": "添加供應商",
+		"list.edit": "編輯",
+		"list.block": "塊",
+		"list.unblock": "解除封鎖",
+		"list.name": "電話",
+		"list.phone": "電話",
+		"list.email": "電子郵件",
+		"list.category": "類別",
+		"list.address": "地址",
+		"form.name": "名稱",
+		"form.phone": "電話",
+		"form.mobile": "移動",
+		"form.post": "郵政編碼",
+		"form.balance": "期初餘額",
+		"form.address": "地址",
+		"form.email": "電子郵件",
+		"form.country": "國家",
+		"form.state": "州",
+		"form.contactPerson": "聯繫人",
+		"form.city": "城市",
+		"form.gst": " 消費稅",
+		"form.tax": "稅號",
+		"form.submit": "提交",
+		"form.update": "更新"
+	},
+	"member": {
+		"list.title": "會員名單",
+		"list.upload": "上載Excel",
+		"list.add": "新增會員",
+		"list.name": "電話",
+		"list.phone": "電話",
+		"list.email": "電子郵件",
+		"list.race": "種族",
+		"list.member": "會員",
+		"list.area": "區",
+		"list.community": "社區",
+		"list.religion": "宗教",
+		"list.address": "地址"
+	},
+	"dialog": {
+		"confirm.button": "確認",
+		"drag": "拖放",
+		"formatMessage": "建議使用Excel格式"
+	},
+	"deal": {
+		"tab.approval": "需要批准",
+		"tab.going": "進行中",
+		"tab.pending": "待定",
+		"tab.completed": "已完成"
+	},
+	"dealDetails": {
+		"tab.dealInfo": "交易信息",
+		"tab.order": "訂購",
+		"tab.comment": "評論",
+		"approve": "批准",
+		"reject": "拒絕"
+	},
+	"product": {
+		"name": "電話",
+		"unit": "產品單位",
+		"category": "產品分類",
+		"price": "產品價格",
+		"description": "產品描述"
+	}
+}

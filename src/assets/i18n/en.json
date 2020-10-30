@@ -1,0 +1,89 @@
+{
+  "header": {
+    "language": "English"
+  },
+  "community": {
+    "list.title": "Community List",
+    "list.upload": "Upload Excel",
+    "list.add": "Add Community",
+    "list.name": "Name",
+    "list.phone": "Phone",
+    "list.email": "Email",
+    "list.contactPerson": "Contact Person",
+    "list.pickUp": "Pick up Address",
+    "list.area": "Area"
+  },
+  "supplier": {
+    "list.title": "Supplier List",
+    "list.upload": "Upload Excel",
+    "list.add": "Add Supplier",
+    "list.edit": "Edit",
+    "list.block": "Block",
+    "list.unblock": "Unblock",
+    "list.name": "Name",
+    "list.phone": "Phone",
+    "list.email": "Email",
+    "list.category": "Category",
+    "list.address": "Address",
+    "form.name":"Name",
+    "form.phone":"Phone",
+    "form.mobile":"Mobile",
+    "form.post":"Post Code",
+    "form.balance":"Opening Balance",
+    "form.address":"Address",
+    "form.email":"Email",
+    "form.country":"Country",
+    "form.state":"State",
+    "form.contactPerson":"Contact Person",
+    "form.city":"City",
+    "form.gst":"GST",
+    "form.tax":"TAX Number",
+    "form.submit":"Submit",
+    "form.update":"Update"
+  },
+  "member": {
+    "list.title": "Member List",
+    "list.upload": "Upload Excel",
+    "list.add": "Add Member",
+    "list.name": "Name",
+    "list.phone": "Phone",
+    "list.email": "Email",
+    "list.race": "Race",
+    "list.member": "Member",
+    "list.area": "Area",
+    "list.community": "Community",
+    "list.religion":"Religion",
+    "list.address":"Address"
+  },
+  "dialog": {
+    "confirm.button": "Confirm",
+    "drag": "DRAG & DROP",
+    "formatMessage": "Excel format is suggested"
+  },
+  "settings": {
+    "title.categories": "Product categories",
+    "title.units": "Product uints",
+    "title.paymentTerms": "Payment Terms",
+    "title.lang": "Languages"
+  },
+  "deal": {
+    "tab.approval": "For Approval",
+    "tab.going": "On-Gonig",
+    "tab.pending": "Pending",
+    "tab.completed": "Completed"
+  },
+  "dealDetails": {
+    "tab.dealInfo": "Deal Info",
+    "tab.order": "Order",
+    "tab.comment": "CommentS",
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "product": {
+    "name": "Product Name",
+    "unit": "Product unit",
+    "category": "Product Category",
+    "price": "Product Price",
+    "description": "Description"
+  }
+}

@@ -1,0 +1,83 @@
+{
+    "header": {
+        "language": "bahasa"
+    },
+    "community": {
+        "list.title": "Senarai Komuniti",
+        "list.upload": "Muat Naik Excel",
+        "list.add": "Tambah Komuniti",
+        "list.name": "Nama",
+        "list.phone": "Telefon",
+        "list.email": "Email",
+        "list.contactPerson": "Hubungi Orang",
+        "list.pickUp": "Alamat Pengambilan",
+        "list.area": "Kawasan"
+    },
+    "supplier": {
+        "list.title": "Senarai pembekal",
+        "list.upload": "Muat Naik Excel",
+        "list.add": "Tambah pembekal",
+        "list.edit": "Edit",
+        "list.block": "Sekatan",
+        "list.unblock": "Nyahsekat",
+        "list.name": "Nama",
+        "list.phone": "Telefon",
+        "list.email": "Email",
+        "list.category": "Kategori",
+        "list.address": "Alamat",
+        "form.name": "Nama",
+        "form.phone": "Telefon",
+        "form.mobile": "Mudah alih",
+        "form.post": "Poskod",
+        "form.balance": "Balancing Pembukaan",
+        "form.address": "Alamat",
+        "form.email": "E-mel",
+        "form.country": "Negara",
+        "form.state": "Negeri",
+        "form.contactPerson": "Orang Hubungan",
+        "form.city": "Bandar",
+        "form.gst": "GST",
+        "form.tax": "Nombor CUKAI",
+        "form.submit": "Kirim",
+        "form.update": "Kemas kini"
+    },
+    "member": {
+        "list.title": "Senarai Ahli",
+        "list.upload": "Muat Naik Excel",
+        "list.add": "Tambah Ahli",
+        "list.name": "Nama",
+        "list.phone": "Telefon",
+        "list.email": "Email",
+        "list.race": "Perlumbaan",
+        "list.member": "Ahli",
+        "list.area": "Kawasan",
+        "list.community": "Komuniti",
+        "list.religion": "Agama",
+        "list.address": "Alamat"
+    },
+    "dialog": {
+        "confirm.button": "Mengesahkan",
+        "drag": "TANDA & TURUN",
+        "formatMessage": "Format Excel Dicadangkan."
+    },
+    "deal": {
+        "tab.approval": "Untuk Diluluskan",
+        "tab.going": "Sedang Ber Langsung",
+        "tab.pending": "Yang Belum Selesai",
+        "tab.completed": "Selesai"
+    },
+    "dealDetails": {
+        "tab.dealInfo": "Maklumat Urus Niaga",
+        "tab.order": "Pesanan",
+        "tab.comment": "Komen",
+        "approve": "Terima",
+        "reject": "Tolak"
+    },
+    "product": {
+        "name": "Nama Produk",
+        "unit": "Unit produk",
+        "category": "kategori Produk",
+        "price": "Harga Produk",
+        "description": "Penerangan Produk"
+    }
+}

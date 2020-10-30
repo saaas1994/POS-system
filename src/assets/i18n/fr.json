@@ -1,0 +1,30 @@
+{
+    "supplier": {
+        "list.title": "Liste des fournisseurs",
+        "list.upload": "Télécharger Excel",
+        "list.add": "Ajouter un fournisseur",
+        "list.edit": "Modifier",
+        "list.block": "Bloquer",
+        "list.unblock": "Débloquer",
+        "list.name": "Nom",
+        "list.phone": "Téléphone",
+        "list.email": "Email",
+        "list.category": "Catégorie",
+        "list.address": "Adresse",
+        "form.name": "Nom",
+        "form.phone": "Téléphone",
+        "form.mobile": "Mobile",
+        "form.post": "Code postal",
+        "form.balance": "Solde d'ouverture",
+        "form.address": "Adresse",
+        "form.email": "Email",
+        "form.country": "Pays",
+        "form.state": "État",
+        "form.contactPerson": "Personne à contacter",
+        "form.city": "Ville",
+        "form.gst": "GST",
+        "form.tax": "Numéro de TVA",
+        "form.submit": "Soumettre",
+        "form.update": "Mettre à jour"
+    }
+}

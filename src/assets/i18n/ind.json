@@ -1,0 +1,30 @@
+{
+    "supplier": {
+        "list.title": "आपूर्तिकर्ता सूची",
+        "list.upload": "एक्सेल अपलोड करें",
+        "list.add": "आपूर्तिकर्ता जोड़ें",
+        "list.edit": "संपादित करें",
+        "list.block": "ब्लॉक",
+        "list.unblock": "अनब्लॉक",
+        "list.name": "नाम",
+        "list.phone": "फ़ोन",
+        "list.email": "ईमेल",
+        "list.category": "श्रेणी",
+        "list.address": "पता",
+        "Form.name": "नाम",
+        "Form.phone": "फ़ोन",
+        "Form.mobile": "मोबाइल",
+        "form.post": "पोस्ट कोड",
+        "form.balance": "ओपनिंग बैलेंस",
+        "Form.address": "पता",
+        "Form.email": "ईमेल",
+        "Form.country": "देश",
+        "Form.state": "राज्य",
+        "form.contactPerson": "संपर्क व्यक्ति",
+        "Form.city": "शहर",
+        "Form.gst": "जीएसटी",
+        "form.tax": "टैक्स नंबर",
+        "Form.submit": "भेजें",
+        "Form.update": "अपडेट"
+    }
+}
